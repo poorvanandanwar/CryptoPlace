@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoPlace/static/css/main.17e54f7b.css",
+    "main.js": "/CryptoPlace/static/js/main.71a5fe4f.js",
+    "index.html": "/CryptoPlace/index.html",
+    "main.17e54f7b.css.map": "/CryptoPlace/static/css/main.17e54f7b.css.map",
+    "main.71a5fe4f.js.map": "/CryptoPlace/static/js/main.71a5fe4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e54f7b.css",
+    "static/js/main.71a5fe4f.js"
+  ]
+}
