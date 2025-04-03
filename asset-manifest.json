@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CryptoPlace/static/css/main.17e54f7b.css",
-    "main.js": "/CryptoPlace/static/js/main.71a5fe4f.js",
+    "main.js": "/CryptoPlace/static/js/main.b6a3e4d7.js",
     "index.html": "/CryptoPlace/index.html",
     "main.17e54f7b.css.map": "/CryptoPlace/static/css/main.17e54f7b.css.map",
-    "main.71a5fe4f.js.map": "/CryptoPlace/static/js/main.71a5fe4f.js.map"
+    "main.b6a3e4d7.js.map": "/CryptoPlace/static/js/main.b6a3e4d7.js.map"
   },
   "entrypoints": [
     "static/css/main.17e54f7b.css",
-    "static/js/main.71a5fe4f.js"
+    "static/js/main.b6a3e4d7.js"
   ]
 }
